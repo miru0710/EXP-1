@@ -43,11 +43,13 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
+a.   KVL:<img width="1920" height="1080" alt="kirchoff&#39;s voltage law" src="https://github.com/user-attachments/assets/335e661c-091d-4156-a216-aa4dbf75c7ef" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="1493" height="850" alt="kirchoff&#39;s current law" src="https://github.com/user-attachments/assets/e8446de7-9f9b-41e2-b247-e77ab3d35e6e" />
+
  
 
 Calculation:
